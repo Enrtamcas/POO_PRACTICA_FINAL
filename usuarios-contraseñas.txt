@@ -1,0 +1,7 @@
+USUARIO:      CONTRASEÑA:
+"caballo"   , "deLasMontañas"
+"ajolote"   , "1234"   
+"raton"     , "grassMouse"
+"hipopotamo", "tuMadre"
+ 
+el ejecutable .jar se encuentra en la carpeta dist
